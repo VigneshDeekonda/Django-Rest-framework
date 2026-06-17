@@ -1,0 +1,11 @@
+{
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "search.searchView.keywordSuggestions": true,
+    "editor.quickSuggestions": {
+        
+
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    }
+}
